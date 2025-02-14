@@ -4,6 +4,7 @@ sources:
       database: di_dev
       schema:   raw_schema
       tables:
-          - name : raw_customer 
+          - name : raw_customer
+          - name : raw_order 
 
        
